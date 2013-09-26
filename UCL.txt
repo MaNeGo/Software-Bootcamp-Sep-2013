@@ -1,0 +1,4 @@
+ExoMol project 
+Started Oct 2012
+Supervisor: Sergey Yurchencko
+2nd Supervisor: Jonathan Tennyson
